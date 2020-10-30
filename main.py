@@ -4,7 +4,7 @@
 # Using terminal interfaz to request information
 
 import os
-from add_logo_images import add_logo
+from add_logo import add_logo
 
 # Information
 height = "20%" # Exact number or percentage
