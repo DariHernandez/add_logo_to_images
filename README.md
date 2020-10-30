@@ -4,6 +4,12 @@ Add logo to all images in specific folder.
 
 You can indicate the size and position of the logo. 
 
+## Install modules
+``` bash
+$ pip install Pillow
+```
+
+
 **Formats sorported: .png, .jpg .webp .bmp .jpeg***
 ## How to use
 The main.py file, have the parameters to run the program. Modify this script. 
