@@ -35,14 +35,14 @@ add_logo (logo_file, width, height, pos_x, pos_y, imgs_dir)
 
 ## Screenshots
 ### Logo
-!(logo)[]
+![logo](https://github.com/DariHernandez/add_logo_to_images/blob/master/secreenshots/logo.png)
 ### Original files
-!(img1)[]
-!(img2)[]
-!(img3)[]
-!(img4)[]
-### result files
-!(img1_logo)[]
-!(img2_logo)[]
-!(img3_logo)[]
-!(img4_logo)[]
+![img1](https://github.com/DariHernandez/add_logo_to_images/blob/master/secreenshots/images/1.png)
+![img2](https://github.com/DariHernandez/add_logo_to_images/blob/master/secreenshots/images/2.png)
+![img3](https://github.com/DariHernandez/add_logo_to_images/blob/master/secreenshots/images/3.jpeg)
+![img4](https://github.com/DariHernandez/add_logo_to_images/blob/master/secreenshots/images/4.jpg)
+### Result files from example code
+![img1](https://github.com/DariHernandez/add_logo_to_images/blob/master/secreenshots/images_with_logo/1.png)
+![img2](https://github.com/DariHernandez/add_logo_to_images/blob/master/secreenshots/images_with_logo/2.png)
+![img3](https://github.com/DariHernandez/add_logo_to_images/blob/master/secreenshots/images_with_logo/3.jpeg)
+![img4](https://github.com/DariHernandez/add_logo_to_images/blob/master/secreenshots/images_with_logo/4.jpg)
