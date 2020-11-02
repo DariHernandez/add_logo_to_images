@@ -1,8 +1,8 @@
 # add_logo_to_images
 ## Description
-Add logo to all images in specific folder.
+**Add logo to all images** in specific folder.
 
-You can indicate the size and position of the logo. 
+You can **indicate the size and position** of the logo. 
 
 ## Install modules
 ``` bash
